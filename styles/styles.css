@@ -142,6 +142,7 @@ form.error span {
   text-align: center;
   background: #fff;
   color: var(--neutral-grayish-blue);
+  margin: 0 25px;
 }
 
 .confirm-link {
@@ -232,5 +233,15 @@ form.error span {
   button{
     font-size: 14px;
   }
+
+  .confirm {
+    font-size: 12px;
+    margin: 0;
+  }
+
+  .confirm-link{
+    font-size: 12px;
+  }
+
 }
 
